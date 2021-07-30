@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Ball
+comment1.params=screenSize
+comment1.target=Ball(java.awt.Dimension)
+comment2.params=
+comment2.target=int\ getDiameter()
+comment3.params=
+comment3.target=java.awt.Color\ getColor()
+comment4.params=
+comment4.target=java.awt.Point\ getLocation()
+comment5.params=
+comment5.target=java.awt.Point\ getSpeed()
+comment6.params=paddleLocation
+comment6.target=void\ setUserPaddle1Location(java.awt.Point)
+comment7.params=paddleLocation
+comment7.target=void\ setUserPaddle2Location(java.awt.Point)
+comment8.params=
+comment8.target=void\ move()
+comment9.params=g2d
+comment9.target=void\ paintComponent(java.awt.Graphics2D)
+numComments=10

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=PaddleMotionWithKeyBindings
+comment1.params=component
+comment1.target=PaddleMotionWithKeyBindings(javax.swing.JComponent)
+comment2.params=deltaX\ deltaY
+comment2.target=void\ move(int,\ int)
+comment3.params=name\ deltaX\ deltaY
+comment3.target=PaddleMotionWithKeyBindings.MotionAction\ addAction(java.lang.String,\ int,\ int)
+numComments=4

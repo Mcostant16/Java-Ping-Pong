@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=BouncingBallWindow
+comment0.text=\r\n\ BouncingBallWindow\ is\ the\ top\ level\ of\ three\ that\ produce\ a\ window\ with\r\n\ an\ animated\ bouncing\ ball\ in\ it.\r\n\ \r\n\ @author\ Merrill\ Hall\ \r\n\ @version\ 1\r\n
+comment1.params=
+comment1.target=BouncingBallWindow()
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment3.params=
+comment3.target=void\ run()
+numComments=4

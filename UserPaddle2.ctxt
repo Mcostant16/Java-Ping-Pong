@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=UserPaddle2
+comment1.params=screenSize
+comment1.target=UserPaddle2(java.awt.Dimension)
+comment2.params=
+comment2.target=javax.swing.JComponent\ getComponent()
+comment3.params=newPaddleComponent
+comment3.target=void\ setPaddleComponent(javax.swing.JComponent)
+comment4.params=component
+comment4.target=javax.swing.JButton\ addMotionSupport(javax.swing.JComponent)
+numComments=5

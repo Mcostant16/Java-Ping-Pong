@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=BouncingBall
+comment0.text=\r\n\ BouncingBall\ produces\ a\ panel\ with\ one\ ball\ bouncing\ off\ the\ edges.\r\n\ \r\n\ It\ uses\ a\ single\ instance\ of\ the\ Ball\ class\ to\ provide\ the\ bouncer.\r\n
+comment1.params=
+comment1.target=BouncingBall()
+comment1.text=\ \r\n\ Constructor\ sets\ up\ the\ panel\ and\ starts\ its\ animation\ thread\ \r\n
+comment2.params=
+comment2.target=void\ run()
+comment3.params=g
+comment3.target=void\ paintComponent(java.awt.Graphics)
+comment3.text=\ \r\n\ Override\ the\ JPanel\ paintComponent\ method\ with\ our\ drawing\ of\ a\ ball\ \r\n
+numComments=4
